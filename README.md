@@ -25,21 +25,20 @@
 <img src="./assets/titles/about.svg" alt="À propos de moi" height="70"/>
 
 ```js
-const lof = {
-  pseudo:     "Lof",
+const Ilias = {
+  pseudo:     "IliasTAKEYOU",
   github:     "IliasTAKEYOU",
   école:      "Epitech Montpellier — 2e année, spécialité IA & Cloud",
-  parcours:   ["Epitech", "École 42", "La Capsule"],
+  parcours:   ["La Capsule", "École 42", "Epitech"],
   focus:      ["Fullstack", "Web 3D (Three.js / WebGL)", "CI/CD", "IA appliquée"],
   langues:    ["Français 🇫🇷", "English 🇬🇧"],
   motivation: "Allier rigueur technique et vraie expérience visuelle.",
-  citation:   "Un projet n'est fini que quand il est beau ET qui marche."
 };
 ```
 
 - 🔭 Je bosse sur **Project-Delta**, un portfolio-univers 3D où chaque galaxie est une section
 - 🎮 Je développe **Blackhawk**, un jeu 2D tactique en Java (JavaFX), en équipe de 3
-- 🧠 Je me forme à l'**IA & au Cloud** : ML supervisé / non supervisé, LLM locaux, déploiement
+- 🧠 Je me forme à l'**IA & au Cloud** : ML supervisé / non supervisé, LLM locaux, déploiement (AWS/OVH)
 - 🎤 À l'aise pour **présenter mon travail devant un jury**
 - 🌌 Fan d'espace, d'esthétique manga et d'expériences interactives
 
