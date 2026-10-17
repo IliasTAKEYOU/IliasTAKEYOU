@@ -1,9 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════
-     PROFIL GITHUB — IliasTAKEYOU
-     À placer dans un dépôt PUBLIC nommé exactement : IliasTAKEYOU
-     (le README.md de ce dépôt s'affiche en haut de ton profil)
-     ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img src="./Assets/header.svg" width="100%" alt="Lof - Fullstack, 3D Web, IA & Cloud"/>
@@ -14,6 +8,7 @@
 
 ![Followers](https://img.shields.io/github/followers/IliasTAKEYOU?style=for-the-badge&color=64FFDA&labelColor=0A192F&logo=github&logoColor=64FFDA)
 ![Epitech](https://img.shields.io/badge/Epitech-Montpellier-0A192F?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=64FFDA&labelColor=0A192F&color=64FFDA)
+<img src="./Assets/epitech.svg" alt="Epitech" height="40"/>
 
 </div>
 
