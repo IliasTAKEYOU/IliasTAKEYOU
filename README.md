@@ -7,7 +7,7 @@
 <br/>
 
 ![Followers](https://img.shields.io/github/followers/IliasTAKEYOU?style=for-the-badge&color=64FFDA&labelColor=0A192F&logo=github&logoColor=64FFDA)
-![Epitech](https://img.shields.io/badge/<img src="./Assets/epitech.svg" alt="Epitech" height="40"/>Epitech-Montpellier-0A192F?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=64FFDA&labelColor=0A192F&color=64FFDA)
+![Epitech](https://img.shields.io/badge/Epitech-Montpellier-0A192F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAgMTIwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM2NEZGREEiIHN0cm9rZS13aWR0aD0iMTAiPjxwYXRoIGQ9Ik0zOCAyMEgxOHY4MGgyME04MiAyMGgyMHY4MEg4Mk03MiAzOEg0N3Y0NGgyNU00NyA2MGgyMSIvPjwvZz48L3N2Zz4%3D&labelColor=0A192F&color=64FFDA)
 
 </div>
 
