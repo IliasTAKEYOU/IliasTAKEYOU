@@ -167,7 +167,7 @@ La Capsule  ──▶  École 42  ──▶  Epitech Montpellier (2e année · I
 
 *« Le code, c'est comme l'espace : infini, et on y trouve toujours une nouvelle galaxie à explorer. »* 🌌
 
-*« Any fool can write code that a computer can understand. Good programmers write code that humans can understand. »* 🧠
+*« Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin FOWLER »* 🧠
 
 <img src="./Assets/footer.svg" width="100%" alt="footer"/>
 
