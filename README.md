@@ -171,4 +171,3 @@ La Capsule  ──▶  École 42  ──▶  Epitech Montpellier (2e année · I
 <img src="./Assets/footer.svg" width="100%" alt="footer"/>
 
 </div>
-
