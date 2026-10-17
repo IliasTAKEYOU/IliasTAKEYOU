@@ -22,7 +22,7 @@
 
 ---
 
-<img src="./assets/titles/about.svg" alt="À propos de moi" height="70"/>
+<img src="./Assets/about.svg" alt="À propos de moi" height="70"/>
 
 ```js
 const Ilias = {
@@ -44,7 +44,7 @@ const Ilias = {
 
 ---
 
-<img src="./assets/titles/hard.svg" alt="Hard skills" height="70"/>
+<img src="./Assets/hard.svg" alt="Hard skills" height="70"/>
 
 ### 💻 Langages & Web
 
@@ -88,7 +88,7 @@ const Ilias = {
 
 ---
 
-<img src="./assets/titles/soft.svg" alt="Soft skills" height="70"/>
+<img src="./Assets/soft.svg" alt="Soft skills" height="70"/>
 
 | | Compétence | Ce que ça donne concrètement |
 |---|---|---|
@@ -101,7 +101,7 @@ const Ilias = {
 
 ---
 
-<img src="./assets/titles/projects.svg" alt="Projets à la une" height="70"/>
+<img src="./Assets/projects.svg" alt="Projets à la une" height="70"/>
 
 <div align="center">
 
@@ -138,7 +138,7 @@ const Ilias = {
 
 ---
 
-<img src="./assets/titles/stats.svg" alt="Statistiques GitHub" height="70"/>
+<img src="./Assets/stats.svg" alt="Statistiques GitHub" height="70"/>
 
 <div align="center">
 
@@ -153,7 +153,7 @@ const Ilias = {
 
 ---
 
-<img src="./assets/titles/path.svg" alt="Parcours" height="70"/>
+<img src="./Assets/path.svg" alt="Parcours" height="70"/>
 
 ```text
 La Capsule  ──▶  École 42  ──▶  Epitech Montpellier (2e année · IA & Cloud)
@@ -163,7 +163,7 @@ La Capsule  ──▶  École 42  ──▶  Epitech Montpellier (2e année · I
 
 ---
 
-<img src="./assets/titles/contact.svg" alt="Me contacter" height="70"/>
+<img src="./Assets/contact.svg" alt="Me contacter" height="70"/>
 
 <div align="center">
 
