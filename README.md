@@ -6,15 +6,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:112240,100:64FFDA&height=240&section=header&text=Lof&fontSize=90&fontColor=64FFDA&fontAlignY=38&desc=Fullstack%20%E2%80%A2%203D%20Web%20%E2%80%A2%20IA%20%26%20Cloud&descSize=22&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
+<img src="./Assets/header.svg" width="100%" alt="Lof - Fullstack, 3D Web, IA & Cloud"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=64FFDA&center=true&vCenter=true&width=700&lines=Étudiant+en+2e+année+à+Epitech+Montpellier;Spécialité+IA+%26+Cloud+%E2%98%81%EF%B8%8F;Je+construis+des+univers+3D+interactifs+%F0%9F%9A%80;Du+code+propre%2C+du+design+soigné%2C+un+pitch+qui+claque" alt="Typing SVG" />
-</a>
+<img src="./Assets/typing.svg" alt="Étudiant Epitech · IA & Cloud · 3D Web"/>
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=IliasTAKEYOU&color=64FFDA&style=for-the-badge&label=VISITES&labelColor=0A192F)
 ![Followers](https://img.shields.io/github/followers/IliasTAKEYOU?style=for-the-badge&color=64FFDA&labelColor=0A192F&logo=github&logoColor=64FFDA)
 ![Epitech](https://img.shields.io/badge/Epitech-Montpellier-0A192F?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=64FFDA&labelColor=0A192F&color=64FFDA)
 
@@ -130,7 +127,7 @@ const Ilias = {
 | Projet | Description | Stack |
 |---|---|---|
 | 🌌 **[Project-Delta](https://project-delta-qjpi.vercel.app)** | Portfolio-univers 3D modulaire : chaque galaxie = une section, vaisseau pilotable, bulles manga au contact des planètes, audio multicanal | `Three.js` `JavaScript` `Web Audio` `Vercel` |
-| 🥷 **Blackhawk** | Jeu 2D tactique inspiré de *Katana ZERO*, *Door Kickers* et *Ready or Not* : préparation devant la porte, assaut, ralenti à l'ouverture | `Java 21` `JavaFX` `Maven` |
+| 🥷 **Blackhawk** | Jeu 2D tactique inspiré de *Katana ZERO*, *Door Kickers* et *Ready or Not* : préparation devant la porte, assaut, ralenti à l'ouverture | `Java 25` `JavaFX` `Maven` |
 | 🩺 **DR CVRIE** | IA médicale : classification supervisée d'imagerie + clustering non supervisé de témoignages | `Python` `Scikit-learn` `Pandas` `Jupyter` |
 | 🤝 **GSC** | Refonte du site d'une association de quartier (design Figma puis intégration) | `HTML` `CSS` `JavaScript` `Figma` |
 
@@ -169,13 +166,13 @@ La Capsule  ──▶  École 42  ──▶  Epitech Montpellier (2e année · I
 
 [![GitHub](https://img.shields.io/badge/GitHub-IliasTAKEYOU-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA)](https://github.com/IliasTAKEYOU)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Project--Delta-0A192F?style=for-the-badge&logo=vercel&logoColor=64FFDA)](https://project-delta-qjpi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/ilias-dehri/?isSelfProfile=true-0A192F?style=for-the-badge&logo=linkedin&logoColor=64FFDA)](https://www.linkedin.com/in/ilias-dehri/?isSelfProfile=true)
-[![Mail](https://img.shields.io/badge/Mail-ilias.dehri21042005@gmail.com-0A192F?style=for-the-badge&logo=gmail&logoColor=64FFDA)](ilias.dehri21042005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ilias--dehri-0A192F?style=for-the-badge&logo=linkedin&logoColor=64FFDA)](https://www.linkedin.com/in/ilias-dehri/)
+[![Mail](https://img.shields.io/badge/Mail-ilias.dehri21042005%40gmail.com-0A192F?style=for-the-badge&logo=gmail&logoColor=64FFDA)](mailto:ilias.dehri21042005@gmail.com)
 
 <br/>
 
 *« Le code, c'est comme l'espace : infini, et on y trouve toujours une nouvelle galaxie à explorer. »* 🌌
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:64FFDA,50:112240,100:0A192F&height=120&section=footer" width="100%" alt="footer"/>
+<img src="./Assets/footer.svg" width="100%" alt="footer"/>
 
 </div>
