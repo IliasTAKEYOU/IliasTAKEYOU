@@ -138,7 +138,7 @@ const Ilias = {
 
 <img src="https://streak-stats.demolab.com?user=IliasTAKEYOU&theme=tokyonight&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&border=64FFDA" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IliasTAKEYOU&bg_color=0A192F&color=64FFDA&line=64FFDA&point=FFFFFF&area=true&area_color=64FFDA&hide_border=true" alt="activité" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IliasTAKEYOU&bg_color=0A192F&color=64FFDA&line=64FFDA&point=FFFFFF&area=true&area_color=64FFDA&hide_border=true" alt="" width="100%"/>
 
 </div>
 
