@@ -97,7 +97,7 @@ const Ilias = {
 <div align="center">
 
 <a href="https://github.com/IliasTAKEYOU/Project-Delta">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IliasTAKEYOU&repo=Project-Delta&theme=tokyonight&bg_color=0A192F&title_color=64FFDA&icon_color=64FFDA&text_color=CCD6F6&border_color=64FFDA&hide_border=false" alt="Project-Delta"/>
+  <img src="https://github.com/IliasTAKEYOU/Project-Delta" alt="Project-Delta"/>
 </a>
 <a href="https://github.com/IliasTAKEYOU/Blackhawk">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=IliasTAKEYOU&repo=Blackhawk&theme=tokyonight&bg_color=0A192F&title_color=64FFDA&icon_color=64FFDA&text_color=CCD6F6&border_color=64FFDA&hide_border=false" alt="Blackhawk"/>
