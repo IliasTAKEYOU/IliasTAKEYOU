@@ -169,7 +169,7 @@ La Capsule  ──▶  École 42  ──▶  Epitech Montpellier (2e année · I
 
 [![GitHub](https://img.shields.io/badge/GitHub-IliasTAKEYOU-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA)](https://github.com/IliasTAKEYOU)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Project--Delta-0A192F?style=for-the-badge&logo=vercel&logoColor=64FFDA)](https://project-delta-qjpi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-à%20compléter-0A192F?style=for-the-badge&logo=linkedin&logoColor=64FFDA)](https://www.linkedin.com/in/ilias-dehri/?isSelfProfile=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/ilias-dehri/?isSelfProfile=true-0A192F?style=for-the-badge&logo=linkedin&logoColor=64FFDA)](https://www.linkedin.com/in/ilias-dehri/?isSelfProfile=true)
 [![Mail](https://img.shields.io/badge/Mail-ilias.dehri21042005@gmail.com-0A192F?style=for-the-badge&logo=gmail&logoColor=64FFDA)](ilias.dehri21042005@gmail.com)
 
 <br/>
